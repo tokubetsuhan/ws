@@ -1,18 +1,1 @@
-body{
-    color: #f6eae1;
-    font-size: 14px;
-    -webkit-font-smoothing: antialiased;
-    background: #1E2124;
-    animation: 3s ease 1s infinite running forwards;
-}
-@font-face {
-  font-family: "Kimberley";
-  src: url(http://www.princexml.com/fonts/larabie/kimberle.ttf) format("truetype");
-}
-
-h1{
-	font-family: "Kimberley", sans-serif;
-	position: relative;
-	top: 150px;
-	text-align: center;
-}
+body{background: #1E2124;}h1{position: relative;top: 15%;font-size: 30px;font-family: sans-serif;text-align: center;color: #f6eae1;}
